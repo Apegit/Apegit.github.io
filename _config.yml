@@ -8,7 +8,7 @@ logo:               'assets/img/apegit.jpg'
 background:         'assets/img/20140702_163706.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                //apegit.github.io
 
 # Jekyll
 permalink:          /:title/
