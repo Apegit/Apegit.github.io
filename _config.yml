@@ -5,7 +5,7 @@ description:        "Github-Page of Apegit"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/apegit.jpg'
-background:         'assets/img/20140702_163706.jpg'
+background:         'assets/img/Milkyway.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                //apegit.github.io
